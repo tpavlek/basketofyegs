@@ -1,0 +1,173 @@
+$primary-color: #2DBDED;
+$background-color: #048DBA;
+$date-color: black;
+$block-level-color: darken($background-color, 10%);
+
+html, body {
+  min-height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  min-height: 100%;
+  text-align: center;
+  background: $background-color;
+  font-family: 'Lato', sans-serif;
+  color: rgba(255,255,255, 0.8);
+  font-size: 120%;
+}
+
+a {
+  color: $primary-color;
+}
+
+.content-wrapper {
+  min-height: 100%;
+  width: 760px;
+  margin: 0 auto;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+.podcast-header {
+
+  margin-bottom: 3rem;
+
+  .podcast-logo {
+    max-height: 50vh;
+  }
+}
+
+.subscribe-links {
+  margin-bottom: 2rem;
+
+  .subscribe-link {
+    padding: 0.5rem;
+    border: 3px solid $block-level-color;
+    border-radius: 10rem;
+    margin-right: 5rem;
+    text-decoration: none;
+    color: $block-level-color;
+  }
+
+  .subscribe-link:hover {
+    color: $primary-color;
+    border-color: $primary-color;
+  }
+
+  .subscribe-link:last-child {
+    margin-right: 0;
+  }
+}
+
+.podcast-description {
+  font-size: 180%;
+  color: whitesmoke;
+  line-height: 1.5em;
+  margin-bottom: 3rem;
+}
+
+.podcast-episode.current {
+  width: 100%;
+}
+
+.podcast-episode {
+  box-sizing: border-box;
+  text-align: left;
+  background: $block-level-color;
+  padding: 1rem;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+
+  // The default width is 70, except for the first one.
+  width: 70%;
+
+  hr {
+    border:1px solid darken($block-level-color, 10%);
+    margin-top:2rem;
+    margin-bottom: 1rem;
+  }
+
+  .episode-date {
+    font-weight: 900;
+    color: $date-color;
+    font-size: 80%;
+    letter-spacing: 0.2em;
+  }
+
+  .episode-title {
+    font-weight: bold;
+    color: $primary-color;
+    font-size: 150%;
+    margin-top: 0.5em;
+    margin-bottom: 1em;
+
+    a {
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  }
+
+  .episode-embed {
+    margin-bottom: 1em;
+  }
+
+  .episode-mp3 {
+    text-decoration: none;
+  }
+}
+
+.episode-show-notes {
+  ul {
+    line-height: 1.5em;
+  }
+}
+
+.hosts {
+  margin-bottom: 2rem;
+}
+.host {
+  display: inline-block;
+
+  img {
+    display: block;
+    max-width: 100px;
+    margin: 0 auto;
+    margin-bottom: 0.5em;
+  }
+}
+
+footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  padding-bottom: 0.5rem;
+  background: $block-level-color;
+}
+
+.host:not(:last-child) {
+  margin-right: 2rem;
+}
+
+@media screen and (max-width: 775px) {
+  .content-wrapper { width: 95%; }
+
+  .podcast-description { font-size: 120%; }
+
+  .host { width: 50%; }
+}
+
+#disqus-thread {
+  width: 100%;
+  iframe {
+    width: 100%;
+  }
+}
+
+
+
+
+

@@ -1,0 +1,12 @@
+{
+    "name": "depotwarehouse/basketofyegs",
+    "description": "The mainsite for Edmonton-based Basket of YEGs Podcast",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Troy Pavlek",
+            "email": "troy@tpavlek.me",
+            "homepage": "http://tpavlek.me"
+        }
+    ]
+}
