@@ -3,3 +3,4 @@ node_modules/
 vendor/
 output_dev/
 output_prod/
+sculpin.phar
