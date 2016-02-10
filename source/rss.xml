@@ -6,13 +6,13 @@ use: ["podcasts"]
 <?xml version="1.0" encoding="utf-8"?>
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
     <channel>
-        <link>http://highyieldcast.com</link>
+        <link>{{ site.url }}</link>
         <language>en-us</language>
         <copyright>&#xA9;2015 Troy Pavlek</copyright>
         <image>
-            <url>http://highyieldcast.com/img/logo.png</url>
-            <title>High Yield Podcast Logo</title>
-            <link>http://highyieldcast.com</link>
+            <url>{{site.url}}/img/logo-lg.png</url>
+            <title>Basket of YEGs Logo</title>
+            <link>{{ site.url }}</link>
         </image>
         <title>{{ site.title }}</title>
 
@@ -30,6 +30,7 @@ use: ["podcasts"]
         <itunes:category text="Government &amp; Organizations">
             <itunes:category text="Local" />
         </itunes:category>
+
 
         <itunes:explicit>clean</itunes:explicit>
 
