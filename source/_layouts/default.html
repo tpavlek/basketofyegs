@@ -43,6 +43,12 @@
         <a class="subscribe-link" href="{{ site.itunes_url }}">
             <i class="fa fa-music fa-lg"></i>
         </a>
+
+        {% if site.facebook_url %}
+            <a class="subscribe-link" href="{{ site.facebook_url }}">
+                <i class="fa fa-facebook-official fa-lg"></i>
+            </a>
+        {% endif %}
     </div>
 
     <section class="podcast-episodes">

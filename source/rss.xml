@@ -8,9 +8,9 @@ use: ["podcasts"]
     <channel>
         <link>{{ site.url }}</link>
         <language>en-us</language>
-        <copyright>&#xA9;2015 Troy Pavlek</copyright>
+        <copyright>&#xA9;{{ "now"|date("Y") }} Troy Pavlek</copyright>
         <image>
-            <url>{{site.url}}/img/logo-lg.png</url>
+            <url>{{ site.img_full_url }}</url>
             <title>Basket of YEGs Logo</title>
             <link>{{ site.url }}</link>
         </image>
@@ -26,7 +26,7 @@ use: ["podcasts"]
             <itunes:email>troy@tpavlek.me</itunes:email>
         </itunes:owner>
 
-        <itunes:image href="{{site.url}}/img/logo-lg.png" />
+        <itunes:image href="{{ site.img_full_url }}" />
         <itunes:category text="Government &amp; Organizations">
             <itunes:category text="Local" />
         </itunes:category>
