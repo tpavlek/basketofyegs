@@ -1,7 +1,7 @@
 ---
 title: "Irfan Chaudhry talks ward 12 campaign and future plans"
 track_no: 249887992
-description: "Irfan Chaudhry joins me again in the studio to recap his campaign, talk future plans, and play a game or two"
+description: "Irfan Chaudhry joins Troy Pavlek again in the studio to recap his campaign, talk future plans, and play a game or two on this episode of the Basket of YEGs Podcast"
 mp3url: "http://feeds.soundcloud.com/stream/249887992-troy-pavlek-basket-of-yegs-002-irfan-chaudhry-talks-ward-12-campaign-and-future-plans.mp3"
 mp3size: 60955433
 duration: "01:03:30"

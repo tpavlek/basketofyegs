@@ -12,3 +12,7 @@
     <meta name="twitter:description" content="{{ page.description }}" />
     <meta name="twitter:image" content="{{site.url}}/img/logo.png" />
 {% endblock %}
+
+{% if page.description %}
+    {% block meta_description %}{{ page.description }}{% endblock %}
+{% endif %}
