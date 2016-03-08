@@ -27,8 +27,7 @@ use: ["podcasts"]
         </itunes:owner>
 
         <itunes:image href="{{ site.img_full_url }}" />
-        <itunes:category text="Government &amp; Organizations">
-            <itunes:category text="Local" />
+        <itunes:category text="News &amp; Politics">
         </itunes:category>
 
 
