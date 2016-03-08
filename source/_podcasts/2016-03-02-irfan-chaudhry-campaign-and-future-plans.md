@@ -24,6 +24,6 @@ For all complaints about the difficulty of this episode's Top of the Muttart, pl
 
 Please help us out by [rating and reviewing on iTunes]({{site.itunes_url}}) and sharing on Facebook.
 
-Podcast theme song by [Jonathan Mann](http://songaday.org).
+Podcast theme song by [Jonathan Mann](http://jonathanmann.net).
 
 
