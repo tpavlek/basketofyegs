@@ -1,9 +1,9 @@
 ---
 title: "Should 16 Year Olds be Able to Vote? Marina Banister and Cam Somerville of the Edmonton Youth Council weigh in"
-track_no: 
+track_no: 252211887
 description: "Troy Pavlek is joined by the chair and vice-chair of the Edmonton Youth Council, Marina Banister and Cameron Somerville discussing youth engagement and the recent motion to allow 16-year-olds to vote in municipal elections on this episode of the Basket of YEGs Podcast"
-mp3url: ""
-mp3size: 
+mp3url: "http://feeds.soundcloud.com/stream/252211887-troy-pavlek-basket-of-yegs-004-should-16-year-olds-be-able-to-vote-in-municipal-elections.mp3"
+mp3size: 30680132
 duration: "00:31:57"
 ---
 
