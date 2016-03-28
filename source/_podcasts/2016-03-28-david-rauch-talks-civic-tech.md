@@ -1,4 +1,10 @@
 ---
+title: "David Rauch talks Civic Technology in Edmonton"
+track_no: 255600857
+description: "Troy Pavlek is joined by David Rauch, the organizer of Beta City YEG, a civic tech meetup focusing on improving Edmonton through technology"
+mp3url: "http://feeds.soundcloud.com/stream/255600857-troy-pavlek-basket-of-yegs-005-david-rauch-talks-civic-technology-in-edmonton.mp3"
+mp3size: 40160699
+duration: "00:41:50"
 ---
 
 * [Beta City YEG](http://betacity.ca/)
