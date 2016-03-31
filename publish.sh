@@ -4,7 +4,7 @@
 # was downloaded and placed in this directory instead of sculpin having been
 # installed globally.
 
-../sculpin/bin/sculpin generate --env=prod
+./sculpin.phar generate --env=prod
 if [ $? -ne 0 ]; then echo "Could not generate the site"; exit 1; fi
 
 rsync -avze 'ssh -p 22' output_prod/ ebon@sc2ctl.com:basketofyegs/public_html

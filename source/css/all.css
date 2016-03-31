@@ -78,6 +78,220 @@
   src: local("Lato Bold Italic"), local("Lato-BoldItalic"), url(//fonts.gstatic.com/s/lato/v11/HkF_qI1x_noxlxhrhMQYEFtXRa8TVwTICgirnJhmVJw.woff2) format("woff2");
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000; }
 
+.button, .inverted-button, .pure-form .button, .pure-form .inverted-button {
+  -o-box-sizing: border-box;
+  -ms-box-sizing: border-box;
+  box-sizing: border-box;
+  text-transform: uppercase;
+  text-decoration: none;
+  font-size: 115%;
+  font-weight: bold;
+  letter-spacing: 1px;
+  cursor: pointer;
+  border-radius: 0;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+  border: 0;
+  padding: 0.75rem 3rem;
+  line-height: normal;
+  display: inline-block; }
+
+.inverted-button {
+  display: inline-block;
+  background: none;
+  border: 2px solid white;
+  color: #f5f5f5; }
+
+.inverted-button:hover {
+  background: white; }
+
+.button.primary, .primary.inverted-button, .button, .inverted-button {
+  background: #02546f;
+  color: whitesmoke; }
+
+.button.primary:hover, .primary.inverted-button:hover, .button:hover, .inverted-button:hover {
+  background: #00090b; }
+
+.button.success, .success.inverted-button {
+  background: green; }
+
+.button.success:hover, .success.inverted-button:hover {
+  background: #006700; }
+
+.button.cancel, .cancel.inverted-button {
+  background: #949494;
+  color: white; }
+
+.button.cancel:hover, .cancel.inverted-button:hover {
+  background: #ca3c3c;
+  color: white; }
+
+.button.twitter, .twitter.inverted-button {
+  background: #9AE4E8;
+  color: black; }
+
+.button.twitter:hover, .twitter.inverted-button:hover {
+  background: #70d9df;
+  color: black; }
+
+.button.facebook, .facebook.inverted-button {
+  background: #3D62B3;
+  color: white; }
+
+.button.facebook:hover, .facebook.inverted-button:hover {
+  background: #304d8d; }
+
+.button.gplus, .gplus.inverted-button {
+  background: #D34836;
+  color: white; }
+
+.button.gplus:hover, .gplus.inverted-button:hover {
+  background: #b03626; }
+
+.inverted-button {
+  background: none;
+  border: 2px solid white;
+  color: white; }
+
+.inverted-button:hover {
+  background: white;
+  color: black; }
+
+.button.action, .action.inverted-button {
+  background: white;
+  color: black; }
+
+.button.action:hover, .action.inverted-button:hover {
+  background: #e6e6e6; }
+
+.button.brown, .brown.inverted-button {
+  background: #7C4316;
+  color: white; }
+
+.button.brown:hover, .brown.inverted-button:hover {
+  background: #512c0e; }
+
+.button.bad, .bad.inverted-button {
+  background: #ca3c3c;
+  color: white; }
+
+.button.bad:hover, .bad.inverted-button:hover {
+  background: #ba3333; }
+
+.button.secondary, .secondary.inverted-button {
+  background: #5fc6da; }
+
+.button.secondary:hover, .secondary.inverted-button:hover {
+  background: #4abfd5; }
+
+.pure-button-orange {
+  background: #df7514; }
+
+.button.xsmall, .xsmall.inverted-button {
+  font-size: 60%;
+  margin: 0;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  padding-top: 0.3rem;
+  padding-bottom: 0.3rem; }
+
+.button.small, .small.inverted-button {
+  font-size: 79%;
+  margin: 0;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-top: 0.5rem;
+  padding-bottom: 0.5rem; }
+
+.button.large, .large.inverted-button {
+  font-size: 125%; }
+
+.button.xlarge, .xlarge.inverted-button {
+  font-size: 150%; }
+
+.button.massive, .massive.inverted-button {
+  font-size: 200%; }
+
+/** Sometimes we want an inline form that's just a button (eg. Deleting), so we declare a class for inline-forms */
+.inline-form {
+  display: inline-block; }
+
+.pure-form {
+  font-family: 'Merriweather Sans', sans-serif;
+  /* removes the fuzzyness on the outside of submit buttons */ }
+  .pure-form .pure-control-group {
+    margin-top: 0.5em;
+    margin-bottom: 0.5em; }
+  .pure-form .form-label {
+    color: grey;
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 1px; }
+  .pure-form legend {
+    font-weight: bold;
+    text-transform: uppercase;
+    font-size: 150%;
+    margin-top: 0.5em; }
+  .pure-form label {
+    font-family: 'Merriweather Sans', sans-serif;
+    font-size: 110%; }
+  .pure-form input.button, .pure-form input.inverted-button {
+    box-shadow: none; }
+  .pure-form input[type=text],
+  .pure-form input[type=password],
+  .pure-form input[type=number],
+  .pure-form input[type=tel],
+  .pure-form input[type=email],
+  .pure-form select,
+  .pure-form .select2,
+  .pure-form textarea {
+    border-radius: 0 !important;
+    border: 1px solid #a0a6af;
+    box-shadow: 0 1px 0 #fff;
+    font-size: 1em !important;
+    line-height: 30px;
+    padding-left: 15px;
+    transition: none;
+    margin-bottom: 1em;
+    min-width: 300px; }
+  .pure-form select, .pure-form .select2 {
+    font-weight: bold;
+    color: grey;
+    text-transform: uppercase;
+    width: 300px; }
+  .pure-form .select2 .selection .select2-selection {
+    border: none;
+    outline: none; }
+  .pure-form ::-webkit-input-placeholder {
+    font-weight: bold;
+    letter-spacing: 2px; }
+  .pure-form ::-moz-placeholder {
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px; }
+  .pure-form :-ms-input-placeholder {
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px; }
+  .pure-form input:-moz-placeholder {
+    text-transform: uppercase;
+    font-weight: bold;
+    letter-spacing: 2px; }
+
+.pure-form.small {
+  font-size: 80%; }
+  .pure-form.small input {
+    height: 50%; }
+  .pure-form.small textarea {
+    line-height: normal; }
+
+.select2-arrow {
+  background: none !important;
+  border-left: none !important; }
+
+option {
+  text-transform: none; }
+
 html, body {
   min-height: 100%;
   margin: 0;
