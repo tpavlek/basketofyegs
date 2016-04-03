@@ -1,0 +1,11 @@
+---
+---
+
+* [/u/EdmRealtor](https://www.reddit.com/user/edmrealtor)
+* [Wall Street Journal Article() FILL THIS IN
+* [No bottom in sight for Calgary housing market as prices drop 3.51% from a year earlier](http://business.financialpost.com/personal-finance/mortgages-real-estate/no-bottom-in-sight-for-calgary-housing-market-as-prices-drop-3-51-from-a-year-earlier)
+* [The Calgary Subreddit](https://reddit.com/r/calgary)
+* [Edmonton Targets 25% infill developments, only 17% was infill in 2015](http://www.metronews.ca/news/edmonton/2015/07/02/edmonton-missing-infill-targets-as-city-continues-to-sprawl.html)
+* [Rio Terrace oppose subdivision of lot](http://edmontonjournal.com/news/local-news/edmonton-residents-begin-organizing-in-opposition-to-city-halls-infill-plans)
+* [Carruthers' Caveat](http://www.glenoracommunity.com/index.php/your_glenora/page/districts_and_history)
+* [Zoocasa shuts down June 22, 2015](http://globalnews.ca/news/2044837/zoocasa-to-cease-operations-as-of-june-22/)
