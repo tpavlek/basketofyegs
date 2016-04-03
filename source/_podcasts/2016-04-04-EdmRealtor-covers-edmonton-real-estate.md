@@ -2,7 +2,7 @@
 ---
 
 * [/u/EdmRealtor](https://www.reddit.com/user/edmrealtor)
-* [Wall Street Journal Article() FILL THIS IN
+* [Wall Street Journal Article](http://www.wsj.com/articles/widening-u-s-home-price-gap-makes-trading-up-harder-1458505659) (Subscription Required)
 * [No bottom in sight for Calgary housing market as prices drop 3.51% from a year earlier](http://business.financialpost.com/personal-finance/mortgages-real-estate/no-bottom-in-sight-for-calgary-housing-market-as-prices-drop-3-51-from-a-year-earlier)
 * [The Calgary Subreddit](https://reddit.com/r/calgary)
 * [Edmonton Targets 25% infill developments, only 17% was infill in 2015](http://www.metronews.ca/news/edmonton/2015/07/02/edmonton-missing-infill-targets-as-city-continues-to-sprawl.html)
