@@ -1,4 +1,10 @@
 ---
+title: "Famed Redditor EdmRealtor Covers Edmonton Real Estate"
+track_no: 256259714
+description: "Troy Pavlek is joined by /u/EdmRealtor, an Edmonton Real Estate agent who regularly posts market updates on reddit to talk all about the Edmonton Real Estate market"
+mp3url: "http://feeds.soundcloud.com/stream/256259714-troy-pavlek-basket-of-yegs-006-famed-redditor-edmrealtor-covers-edmonton-real-estate.mp3"
+mp3size: 28237183
+duration: "00:29:24"
 ---
 
 * [/u/EdmRealtor](https://www.reddit.com/user/edmrealtor)
