@@ -1,10 +1,10 @@
 ---
 title: "Should the residential speed limit be 40 km/h?"
-track_no: 
+track_no: 258010761
 description: "Jason Bale joins Troy Pavlek this week to talk about the Edmonton Federation of Community League's proposal to reduce the neighbourhood speed limit to 40 km/h"
-mp3url: ""
-mp3size: 
-duration: ""
+mp3url: "http://feeds.soundcloud.com/stream/258010761-troy-pavlek-basket-of-yegs-007-should-the-residential-speed-limit-be-40-kmh.mp3"
+mp3size: 34633618
+duration: "00:36:04"
 ---
 
 * [The full report on the Pilot Neighbourhoods for speed reduction](http://www.edmonton.ca/transportation/PDF/OTS_Speed_Limit_Reduction_Report.pdf)
@@ -17,3 +17,5 @@ duration: ""
 * [Edmonton's Speed Reduction Policy](http://www.edmonton.ca/city_government/documents/C566.pdf)
 
 <img src="/img/posts/2016-04-11-should-the-neighbourhood-speed-limit-be-40/big-brother.jpg" />
+
+Podcast theme song by [Jonathan Mann](http://jonathanmann.net).
