@@ -1,10 +1,10 @@
 ---
 title: "Toll Roads? Zone-Based Fares? Edmonton Ward 1 Councillor Andrew Knack talks User Fees"
-track_no: 
+track_no: 259574585
 description: "City Councillor for Ward 1, Andrew Knack, takes some time to sit down and shed light on some of the nuance of the City of Edmonton's white paper on User Fees"
-mp3url: ""
-mp3size: 
-duration: ""
+mp3url: "http://feeds.soundcloud.com/stream/259574585-troy-pavlek-basket-of-yegs-008-toll-roads-zone-based-fares-andrew-knack-talks-user-fees.mp3"
+mp3size: 50549504
+duration: "00:52:39"
 ---
 
 * [The episode that included Marina Banister](http://basketofyegs.com/episode/2016/03/21/city-of-edmonton-youth-council/) in which we discuss whether 16-year-olds should be able to vote in municipal elections.
@@ -18,4 +18,6 @@ According to [Municipal Affairs Alberta](http://www.municipalaffairs.alberta.ca/
 to the municipalities and put towards certain projects as per the municipality's direction, however, this extra funding is in addition to
 the near $1 billion the city is already contributing to roadways as a capital expense in the next budget.
 
-EXCLUDABILITY RIVALROUS GOES HERE
+<img src="/img/posts/2016-04-18-user-fees/excludable-rivalrous.png" />
+
+Podcast theme song by [Jonathan Mann](http://jonathanmann.net).
