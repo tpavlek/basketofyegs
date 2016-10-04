@@ -1,10 +1,10 @@
 ---
-title: "An Innovative and Creative City That Does 100 Things in One Day"
-track_no: 271326831
-description: "Chris Gusen from Make Something Edmonton and Yvonne Pronovost from CITYLab sit down to talk #100in1day and innovative city-building"
-mp3url: "http://feeds.soundcloud.com/stream/271326831-troy-pavlek-basket-of-yegs-010-an-innovative-and-creative-city-that-does-100-things-in-one-day.mp3"
-mp3size: 34649509
-duration: "00:36:05"
+title: "Neighbourhoods Taking Back their Neighbourhood Renewal"
+track_no: 286043662
+description: "Julie Kusiek from QA Crossroads and Engage 106-76 talks about improving neighbourhood renewal to make communities more walkable, bikable and livable"
+mp3url: "http://feeds.soundcloud.com/stream/286043662-troy-pavlek-neighbourhoods-taking-back-their-neighbourhood-renewal.mp3"
+mp3size: 24999658
+duration: "00:26:02"
 ---
 
 You can follow [@juliekusiek](https://twitter.com/JulieKusiek) or 
