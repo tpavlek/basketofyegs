@@ -1,0 +1,36 @@
+{
+    "name": "troypavlek/basketofyegs",
+    "description": "The main site for Edmonton-based Basket of YEGs Podcast",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Troy Pavlek",
+            "email": "troy@tpavlek.me",
+            "homepage": "http://tpavlek.me"
+        }
+    ],
+    "require": {
+        "sculpin/sculpin": "^2.1@dev",
+        "dflydev/embedded-composer": "^1.0@dev",
+        "kriswallsmith/assetic": "1.1.2",
+        "components/bootstrap": "^3.3",
+        "components/jquery": "^3.1",
+        "components/highlightjs": "^9.7"
+    },
+    "config": {
+        "component-dir": "source/components",
+        "components": [
+            "components/bootstrap",
+            "components/jquery",
+            "components/highlightjs"
+        ]
+    },
+    "scripts": {
+        "post-install-cmd": [
+            "ComponentManager\\ComponentManager::postComposerInstall"
+        ]
+    },
+    "autoload": {
+        "classmap": ["component-manager.php"]
+    }
+}

@@ -1,0 +1,34 @@
+---
+layout: default
+generator: pagination
+pagination:
+    max_per_page: 20
+    provider: data.podcasts
+use:
+    - podcasts
+---
+
+{% for episode in page.pagination.items %}
+    {% if page.pagination.page == 1 and loop.index0 == 0 %}
+        {% include '_episode.html' %}
+    {% else %}
+        {% include '_episode-summary.html' %}
+    {% endif %}
+{% endfor %}
+
+{% if page.pagination.previous_page or page.pagination.next_page %}
+    <nav class="post-controls">
+        {% if page.pagination.next_page %}
+            <a href="{{ page.pagination.next_page.url }}" class="button left">
+                <i class="fa fa-arrow-left"></i>
+                Older Posts
+            </a>
+        {% endif %}
+        {% if page.pagination.previous_page %}
+            <a href="{{ page.pagination.previous_page.url }}" class="button right">
+                Newer Posts
+                <i class="fa fa-arrow-right"></i>
+            </a>
+        {% endif %}
+    </nav>
+{% endif %}
